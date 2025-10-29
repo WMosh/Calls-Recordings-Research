@@ -3,7 +3,8 @@
 ## Project Overview
 Call Recording Management System is an advanced, privacy-focused solution for indexing, searching, and playing personal call recordings. Built for local-first deployment, this project is ideal for individuals, researchers, and professionals who need secure, high-performance access to large collections of call audio files on their own machines.
 
-## Features- Automated scanning and indexing of thousands of AMR call recordings  
+## Features
+- Automated scanning and indexing of thousands of AMR call recordings  
 - Deep metadata extraction: date, time, duration, phone number, contact association, day of week, file size  
 - Supports real VCF contact import and cross-referencing  
 - Powerful multi-parameter search and filtering interface  
